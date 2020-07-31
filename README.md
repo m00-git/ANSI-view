@@ -1,1 +1,1 @@
-Spent like... a full day trying to figure out a way to display ANSI art native in my terminal, couldnt find any existing software that worked so this was my solution.
+Spent like... a full day trying to figure out a way to display ANSI art native in my terminal, couldnt find any existing software that worked the way I wanted ("command file.ans" with BBS like output) so this was my solution.
